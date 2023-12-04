@@ -1,0 +1,36 @@
+.card {
+    background-color: rgb(255, 255, 255);
+    padding: 8px;
+    width: 500px;
+    height: 50%;
+    border-radius: 20px;
+    padding: 20px;
+    color:  rgb(0, 0, 0);
+    box-shadow: -1px -1px 18px 20px rgba(0, 0, 0, 0.15);
+    transition: 0.5s;
+}
+
+.card:hover{
+    background-color: rgb(255, 255, 255);
+    box-shadow: -1px -1px 18px 20px rgba(-30, 0, 255, 0.3);
+    transition: 0.5s;
+}
+
+
+
+h1 {
+    text-align: start;
+    text-transform: uppercase;
+    color: rgb(0, 72, 255);
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
+a {
+    text-decoration: none;
+    color: #008CBA;
+}
